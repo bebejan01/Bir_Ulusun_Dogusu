@@ -31,24 +31,6 @@ Veri kaynakları: hikâyeler ve içerikler [`src/data/stories.json`](src/data/st
 ## Video (Herkesin erişebileceği şekilde ekleme)
 Aşağıda iki erişilebilir ekleme yöntemi örneği verilmiştir. Proje deposuna yerleştireceğiniz `public/demo.mp4` veya barındıracağınız YouTube/Vimeo linki ile güncelleyin.
 
-HTML5 video (depo içi dosya: public/demo.mp4)
-```html
-<video controls width="720">
-  <source src="/demo.mp4" type="video/mp4">
-  Bu tarayıcı video formatını desteklemiyor. Videoyu doğrudan indirin: /demo.mp4
-</video>
-```
-
-YouTube embed (herkese açık URL)
-```html
-<iframe width="720" height="405" src="https://www.youtube.com/embed/VIDEO_ID" title="Tanıtım Videosu" frameborder="0" allowfullscreen></iframe>
-```
-
-README içine gömülü küçük bir bağlantı örneği:
-- Doğrudan dosya: /demo.mp4  
-- YouTube: https://www.youtube.com/watch?v=VIDEO_ID
-
-(Geliştirici notu: videoyu depo köküne `public/demo.mp4` olarak koyarsanız veya YouTube linkini yukarıdaki alana eklerseniz, herkes doğrudan izleyebilir.)
 
 ## Hızlı Başlangıç
 Geliştirme sunucusunu başlatmak için:
