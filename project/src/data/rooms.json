@@ -1,0 +1,46 @@
+[
+  {
+    "key": "liberation",
+    "title": {
+      "en": "Liberation Room",
+      "tr": "Kurtuluş Odası"
+    },
+    "intro": {
+      "en": "From resistance to unity, 1915–1922. The journey from occupation to independence.",
+      "tr": "Direnişten birliğe, 1915–1922. İşgalden bağımsızlığa uzanan yolculuk."
+    }
+  },
+  {
+    "key": "republic",
+    "title": {
+      "en": "Republic Room",
+      "tr": "Cumhuriyet Odası"
+    },
+    "intro": {
+      "en": "The birth of a new state, 1923–1924. Building the foundations of modern Türkiye.",
+      "tr": "Yeni bir devletin doğuşu, 1923–1924. Modern Türkiye’nin temelleri."
+    }
+  },
+  {
+    "key": "reforms",
+    "title": {
+      "en": "Reforms Room",
+      "tr": "Devrimler Odası"
+    },
+    "intro": {
+      "en": "Revolutionary changes that shaped modern society. Education, law, and cultural transformation.",
+      "tr": "Modern toplumu şekillendiren devrimci değişimler: eğitim, hukuk ve kültürel dönüşüm."
+    }
+  },
+  {
+    "key": "companions",
+    "title": {
+      "en": "Comrades Room",
+      "tr": "Silah Arkadaşları Odası"
+    },
+    "intro": {
+      "en": "The heroes who fought together. Leaders who shaped history alongside Atatürk.",
+      "tr": "Birlikte savaşan kahramanlar. Atatürk’le birlikte tarihi şekillendiren liderler."
+    }
+  }
+]

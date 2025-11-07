@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ataturk",
+    "name": "Mustafa Kemal Atatürk",
+    "role": "Kurucu ve İlk Cumhurbaşkanı",
+    "years": "1881-1938",
+    "quote": {
+      "en": "Sovereignty belongs unconditionally to the Nation.",
+      "tr": "Egemenlik, kayıtsız şartsız Milletindir."
+    },
+    "bio": {
+      "en": "Founder of the Republic of Türkiye and its first President. A military genius and visionary leader who led the Turkish War of Independence and implemented revolutionary reforms that transformed Turkish society. His leadership established the foundations of modern Türkiye, built on principles of national sovereignty, secularism, and modernization.",
+      "tr": "Türkiye Cumhuriyeti’nin kurucusu ve ilk Cumhurbaşkanı. Türk Kurtuluş Savaşı’nı yöneten ve Türk toplumunu dönüştüren devrimci reformları hayata geçiren askerî deha ve vizyoner bir lider. Liderliği, ulusal egemenlik, laiklik ve modernleşme ilkeleri üzerine kurulu modern Türkiye’nin temellerini attı."
+    },
+    "portraitUrl": "https://images.pexels.com/photos/6646508/pexels-photo-6646508.jpeg"
+  },
+  {
+    "id": "inonu",
+    "name": "İsmet İnönü",
+    "role": "Genelkurmay Başkanı, Başbakan",
+    "years": "1884-1973",
+    "quote": {
+      "en": "The most valuable legacy Atatürk left us is the Republic.",
+      "tr": "Atatürk’ün bize bıraktığı en değerli miras Cumhuriyettir."
+    },
+    "bio": {
+      "en": "Atatürk's closest comrade and military commander during the War of Independence. He commanded critical victories at the Battles of İnönü and served as Prime Minister during the republic's founding years. Later became the second President of Türkiye, guiding the nation through World War II and implementing multi-party democracy.",
+      "tr": "Kurtuluş Savaşı sırasında Atatürk’ün en yakın silah arkadaşı ve askerî komutanı. İnönü Muharebelerinde kritik zaferlere komuta etti ve cumhuriyetin kuruluş yıllarında Başbakan olarak görev yaptı. Daha sonra Türkiye’nin ikinci Cumhurbaşkanı oldu; ülkeyi II. Dünya Savaşı boyunca yönetti ve çok partili demokrasiyi hayata geçirdi."
+    },
+    "portraitUrl": "https://images.pexels.com/photos/7841452/pexels-photo-7841452.jpeg"
+  },
+  {
+    "id": "karabekir",
+    "name": "Kazım Karabekir",
+    "role": "Doğu Cephesi Komutanı",
+    "years": "1882-1948",
+    "quote": {
+      "en": "Independence is the character of our nation.",
+      "tr": "İstiklal milletimizin karakteridir."
+    },
+    "bio": {
+      "en": "Distinguished military commander who played a crucial role in the Eastern Front during the War of Independence. He liberated several key cities and secured Türkiye's eastern borders. A close comrade of Atatürk, he later served in various political positions and remained committed to the principles of the republic throughout his life.",
+      "tr": "Kurtuluş Savaşı sırasında Doğu Cephesi’nde kritik rol oynayan seçkin bir askerî komutan. Birçok önemli şehri kurtardı ve Türkiye’nin doğu sınırlarını güvence altına aldı. Atatürk’ün yakın silah arkadaşı olan Karabekir, daha sonra çeşitli siyasi görevlerde bulundu ve yaşamı boyunca cumhuriyetin ilkelerine bağlı kaldı."
+    },
+    "portraitUrl": "https://images.pexels.com/photos/8111260/pexels-photo-8111260.jpeg"
+  },
+  {
+    "id": "cakmak",
+    "name": "Fevzi Çakmak",
+    "role": "Genelkurmay Başkanı",
+    "years": "1876-1950",
+    "quote": {
+      "en": "Victory is for those who persist to the end.",
+      "tr": "Zafer, sonuna kadar direnenlerindir."
+    },
+    "bio": {
+      "en": "Served as Chief of General Staff during the War of Independence and continued in this role for over two decades. A brilliant strategist who played a key role in military victories. His dedication and military expertise were instrumental in securing independence and defending the young republic.",
+      "tr": "Kurtuluş Savaşı sırasında Genelkurmay Başkanı olarak görev yaptı ve bu görevini yirmi yıldan fazla sürdürdü. Askerî zaferlerde kilit rol oynayan parlak bir stratejistti. Özverisi ve uzmanlığı, bağımsızlığın kazanılmasında ve genç cumhuriyetin savunulmasında belirleyici oldu."
+    },
+    "portraitUrl": "https://images.pexels.com/photos/6962024/pexels-photo-6962024.jpeg"
+  },
+  {
+    "id": "orbay",
+    "name": "Rauf Orbay",
+    "role": "Bahriye Nazırı, Başbakan",
+    "years": "1881-1964",
+    "quote": {
+      "en": "Service to the nation is the highest honor.",
+      "tr": "Millete hizmet en büyük şereftir."
+    },
+    "bio": {
+      "en": "Naval officer who joined the national movement early and served in various critical positions. He was a trusted friend and comrade of Atatürk, serving as Prime Minister and Ambassador. His diplomatic skills and dedication to the national cause were invaluable during the critical years of the struggle and republic-building.",
+      "tr": "Millî harekete erken katılan ve çeşitli kritik görevlerde bulunan bir deniz subayı. Atatürk’ün güvendiği bir dost ve silah arkadaşıydı; Başbakan ve Büyükelçi olarak görev yaptı. Diplomatik becerileri ve ulusal davaya bağlılığı, mücadelenin ve cumhuriyetin kuruluşunun kritik yıllarında paha biçilmezdi."
+    },
+    "portraitUrl": "https://images.pexels.com/photos/7114755/pexels-photo-7114755.jpeg"
+  },
+  {
+    "id": "gokalp",
+    "name": "Ziya Gökalp",
+    "role": "Şair, Sosyolog, Yazar",
+    "years": "1876-1924",
+    "quote": {
+      "en": "To belong to the nation is the greatest pride.",
+      "tr": "Millete mensup olmak en büyük iftihardır."
+    },
+    "bio": {
+      "en": "Influential intellectual who shaped Turkish nationalist thought and contributed to the ideological foundations of the republic. His writings on Turkish identity, modernization, and social reform influenced a generation of leaders. Though not a military figure, his ideas were crucial in defining the cultural and intellectual direction of the new nation.",
+      "tr": "Türk milliyetçi düşüncesini şekillendiren ve cumhuriyetin ideolojik temellerine katkıda bulunan etkili bir entelektüel. Türk kimliği, modernleşme ve toplumsal reform üzerine yazıları bir lider kuşağını etkiledi. Askerî bir figür olmasa da fikirleri, yeni ulusun kültürel ve entelektüel yönünü tanımlamada belirleyici oldu."
+    },
+    "portraitUrl": "https://images.pexels.com/photos/6646523/pexels-photo-6646523.jpeg"
+  }
+]

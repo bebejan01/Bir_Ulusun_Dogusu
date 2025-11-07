@@ -1,0 +1,44 @@
+[
+  {
+    "id": "education-system",
+    "title": {
+      "en": "Education System",
+      "tr": "Eğitim Sistemi"
+    },
+    "beforeLabel": {
+      "en": "Before: Religious Schools",
+      "tr": "Önce: Medreseler"
+    },
+    "afterLabel": {
+      "en": "After: Unified Secular System",
+      "tr": "Sonra: Birleştirilmiş Laik Sistem"
+    },
+    "beforeImage": "https://images.pexels.com/photos/9159050/pexels-photo-9159050.jpeg",
+    "afterImage": "https://images.pexels.com/photos/8500321/pexels-photo-8500321.jpeg",
+    "description": {
+      "en": "Education transformed from separate religious and secular institutions to a unified, modern, secular system accessible to all citizens.",
+      "tr": "Eğitim, ayrı dini ve laik kurumlardan; tüm vatandaşlara açık, birleştirilmiş, modern ve laik bir sisteme dönüştürüldü."
+    }
+  },
+  {
+    "id": "alphabet",
+    "title": {
+      "en": "Writing System",
+      "tr": "Yazı Sistemi"
+    },
+    "beforeLabel": {
+      "en": "Before: Arabic Script",
+      "tr": "Önce: Arap Alfabesi"
+    },
+    "afterLabel": {
+      "en": "After: Latin Alphabet",
+      "tr": "Sonra: Latin Alfabesi"
+    },
+    "beforeImage": "https://images.pexels.com/photos/4173276/pexels-photo-4173276.jpeg",
+    "afterImage": "https://images.pexels.com/photos/5668837/pexels-photo-5668837.jpeg",
+    "description": {
+      "en": "The adoption of the Latin alphabet made literacy more accessible and connected Türkiye with the modern world.",
+      "tr": "Latin alfabesinin kabulü, okuryazarlığı daha erişilebilir kıldı ve Türkiye’yi modern dünya ile buluşturdu."
+    }
+  }
+]
