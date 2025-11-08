@@ -28,10 +28,6 @@ Veri kaynakları: hikâyeler ve içerikler [`src/data/stories.json`](src/data/st
 - Zustand + persist — uygulama durumu: [`src/store/useUI.ts`](src/store/useUI.ts), [`src/store/useAudio.ts`](src/store/useAudio.ts)  
 - Zod — form doğrulama: kullanımı [`src/pages/Guestbook.tsx`](src/pages/Guestbook.tsx)
 
-## Video (Herkesin erişebileceği şekilde ekleme)
-Aşağıda iki erişilebilir ekleme yöntemi örneği verilmiştir. Proje deposuna yerleştireceğiniz `public/demo.mp4` veya barındıracağınız YouTube/Vimeo linki ile güncelleyin.
-
-
 ## Hızlı Başlangıç
 Geliştirme sunucusunu başlatmak için:
 ```bash
